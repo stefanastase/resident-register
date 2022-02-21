@@ -1,5 +1,5 @@
 # resident-register
-Web application for resident registration inside a city using PHP and MySQL.
+Web application for resident registration inside a city implemented using PHP and MySQL for backend; HTML, CSS, JavaScript and jQuery for frontend.
 
 ## Installation
 
